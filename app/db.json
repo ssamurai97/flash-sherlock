@@ -68,4 +68,11 @@
     "rating": 7.7,
     "director": ["Sofia Coppola"],
     "stars": ["Bill Murray", "Scarlett Johansson", "Giovanni Ribisi"]
+},{
+    "title": "cool runnings",
+    "genre": ["comedy", "drama"],
+    "year": "1993",
+    "rating": 9.8,
+    "director": ["Jon Turteltaub"],
+    "stars": ["Leon Robinson", "Doug E. Doug", "Rawle D. Lewis", "Malik Yoba", "John Cand"]
 }]
