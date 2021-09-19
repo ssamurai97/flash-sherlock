@@ -1,6 +1,3 @@
-# flash-init-mini
-BoilerPlate for Flash projects
-
 # Sherlock
 
 Welcome to Sherlock project. Sherlock is a movie recommendation microservice written in Flask.
